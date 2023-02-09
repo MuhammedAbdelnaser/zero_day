@@ -1,1 +1,1 @@
-Vargant Project
+This file is mandatory in projects
